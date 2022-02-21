@@ -31,5 +31,5 @@ Please read **<a href="meta/docs/contributing.md">our contribution guideline</a>
 
 - **Hexac System** uses other tools licensed by the GNU GPL (see **<a href="meta/others/credits.md">credits</a>**).
 
-- Check out our **<a href="">discord server</a>**.
+- Check out our **<a href="https://discord.gg/SRBZc5gm7F">discord server</a>**.
 
